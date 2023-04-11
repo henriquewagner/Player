@@ -1,0 +1,31 @@
+{
+    "expo": {
+      "name": "music",
+      "slug": "music",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/Espotify.png",
+      "userInterfaceStyle": "light",
+      "splash": {
+        "image": "",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/Espotify.png",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "web": {
+        "favicon": "./assets/Espotify.png"
+      }
+    }
+  }
+  
