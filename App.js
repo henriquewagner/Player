@@ -6,7 +6,7 @@ import {AntDesign} from '@expo/vector-icons';
 import Player from './Player'
 
 export default function App() {
-
+ 
   LogBox.ignoreAllLogs(true);
   const [audioIndex, setarAudioIndex] = useState(0);
 
